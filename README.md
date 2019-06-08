@@ -13,5 +13,6 @@
 * **Apache Kafka**
 * **PySpark**
 * **AWS Credentials**
+AWS paid services like EC2 instances, S3 Bucket, EMR, Cloud Watch, SNS were used towards completing the project work
 
-
+[Project Working](https://www.youtube.com/watch?v=hUlcBpQBqJU)
