@@ -1,5 +1,4 @@
-# Streaming-data-pipeline-using-AWS
-
+# Real-Time Fraud Detection System
 ## Authors
 
 * **Mukunth Rajendran** 
@@ -9,3 +8,10 @@
 
 ## Project Poster
 ![Image description](./Poster.png)
+
+## Project Development Dependencies
+* **Apache Kafka**
+* **PySpark**
+* **AWS Credentials**
+
+
