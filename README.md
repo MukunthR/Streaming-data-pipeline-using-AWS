@@ -10,7 +10,7 @@
 ## Project Poster
 ![Image description](./Poster.png)
 
-![Professors Comments: David Belanger](./comments.PNG)
+[Professors Comments: David Belanger](./comments.PNG)
 ## Project Development Dependencies
 * **Apache Kafka**
 * **PySpark**
