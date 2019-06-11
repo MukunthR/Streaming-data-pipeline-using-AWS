@@ -10,6 +10,7 @@
 ## Project Poster
 ![Image description](./Poster.png)
 
+![Image description](./comments.PNG)
 ## Project Development Dependencies
 * **Apache Kafka**
 * **PySpark**
